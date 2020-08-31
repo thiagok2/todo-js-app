@@ -1,9 +1,9 @@
 
 let todoList = [];
 
-//const API_URL = 'https://intense-everglades-20207.herokuapp.com/todo/';
+const API_URL = 'https://intense-everglades-20207.herokuapp.com/todo/';
 
-const API_URL = 'http://localhost:5000/todo/'
+//const API_URL = 'http://localhost:5000/todo/'
 
 
 window.addEventListener('load', async () => {
